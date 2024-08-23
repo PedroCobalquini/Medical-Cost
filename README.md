@@ -6,13 +6,14 @@ A análise foi realizada seguindo os seguintes passos:
 1. **Exploração Inicial dos Dados:** Verificação de valores nulos, tipos de dados, e duplicatas.
 2. **Matriz de Correlação:** Avaliação das correlações entre as variáveis numéricas para identificar relações significativas.
 3. **Visualização de Dados:** Criação de gráficos personalizados para ilustrar os principais insights.
-4. **Análise de Grupos:** Categorização de variáveis como idade e índice de massa corporal (BMI) para análises mais detalhadas.
+4. **Análise de Grupos:** Categorização de variáveis como idade e IMC (BMI) para análises mais detalhadas.
 5. **Conclusões sobre a analise:**  Descrição de todas as informações retiradas do estudo com pontos relevantes sobre o tema.
 
 # Resultados Principais
 Os principais achados desta análise incluem:
 - **Correlação significativa entre tabagismo e aumento dos custos médicos.**
-- **Idade e BMI também influenciam nos custos, porém de forma menos significativa.**
+- **Idade e IMC (BMI) também influenciam nos custos, porém de forma menos significativa.**
+- **Sexo e Região tem nenhum impacto nos custos médicos.**
 
 # Estrutura dos arquivos
 - custo_medico.ipynb - Arquivo principal, em que se encontra toda a analise.
